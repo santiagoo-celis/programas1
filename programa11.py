@@ -1,3 +1,4 @@
+#Dada una lista de números encontrar el número mayor
 lista_numeros = [4, 8, 2, 10, 5]
 
 if not lista_numeros:
